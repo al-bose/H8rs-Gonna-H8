@@ -160,10 +160,10 @@ def get_tweets(keyword):
 
 	#OAuth 1a authentication
 	#PLEASE FILL IN THE FOLLOWING FIELDS WITH YOUR PERSONAL TOKENS!
-	consumer_token = "vrvfXhXLzU6UNsKwKNVagiztD"
-	consumer_secret = "TkmLEb9MnMSy9wi6bf7v2T4scxVsLF5jtYhdw5ao5mJuOaXHZQ"
-	access_token = "2212483580-gBH5DBs6Ki9YfjZpOeGBmzZd1NNC5GC8TEhla8v"
-	access_token_secret = "VIx6Mx2wB6xZsf3CiiCw1uxR2QRhTdgVWF83gNpsUhpXg"
+	consumer_token =
+	consumer_secret =
+	access_token =
+	access_token_secret =
 
 	auth = tweepy.OAuthHandler(consumer_token, consumer_secret)
 	auth.set_access_token(access_token, access_token_secret)
